@@ -1,0 +1,14 @@
+package com.shahbaz.learning;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ShapeTest {
+
+	@Test
+	void test() {
+		assertEquals(10 , 10);
+	}
+
+}

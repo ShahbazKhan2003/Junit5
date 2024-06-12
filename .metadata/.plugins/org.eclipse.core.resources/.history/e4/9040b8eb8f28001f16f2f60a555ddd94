@@ -1,0 +1,19 @@
+package com.shahbaz.learning;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestTrial {
+	Shapes sp = new Shapes();
+
+	@Test
+	void testForSquare() {
+		assertEquals( 16, sp.computeSquareArea(4) );
+	}
+	@Test
+	public void testForCircle() {
+		assertEquals( 31, sp.computeCircleArea(10) );
+	}
+
+}

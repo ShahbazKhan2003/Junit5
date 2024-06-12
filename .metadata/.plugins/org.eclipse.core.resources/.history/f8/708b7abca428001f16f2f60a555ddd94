@@ -1,0 +1,9 @@
+package com.learning.dao;
+
+public class JunitCourse {
+	
+	public boolen coursePurchased() {
+		System.out.println("Junit Course Purchased");
+		return true;
+	}
+}

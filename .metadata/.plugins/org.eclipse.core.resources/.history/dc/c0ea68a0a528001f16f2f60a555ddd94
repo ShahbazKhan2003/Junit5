@@ -1,0 +1,7 @@
+package com.shahbaz.service;
+
+import com.learning.dao.Course;
+
+public class PurchaseCourse {
+
+}

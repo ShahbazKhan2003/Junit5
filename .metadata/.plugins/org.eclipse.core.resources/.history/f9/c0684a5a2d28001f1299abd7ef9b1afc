@@ -1,0 +1,10 @@
+package com.shahbaz.learning;
+
+public class Shapes {
+	public double computeSquareArea(double length) {
+		return length * length;
+	}
+	public double computeTriangleArea(double radius) {
+		return 3.14 * radius * radius;
+	}
+}

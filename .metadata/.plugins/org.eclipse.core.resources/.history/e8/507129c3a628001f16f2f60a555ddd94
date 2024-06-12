@@ -1,0 +1,16 @@
+package com.shahbaz;
+
+import org.junit.jupiter.api.Test;
+
+import com.shahbaz.service.PurchaseCourse;
+
+class TestPurchaseCourse {
+
+	@Test
+	void testproceedWithCourse() {
+		PurchaseCourse pc = new PurchaseCourse();
+		pc.
+		
+	}
+
+}
